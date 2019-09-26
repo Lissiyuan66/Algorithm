@@ -21,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/ZKR/ASI-JSP/ps066m" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="模块" />
@@ -98,6 +98,9 @@
       <workItem from="1569326916997" duration="9085000" />
       <workItem from="1569372835389" duration="334000" />
       <workItem from="1569417728115" duration="6537000" />
+      <workItem from="1569426882061" duration="1705000" />
+      <workItem from="1569459208308" duration="807000" />
+      <workItem from="1569504405707" duration="3597000" />
     </task>
     <servers />
   </component>
