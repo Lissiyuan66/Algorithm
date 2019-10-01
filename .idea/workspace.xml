@@ -46,9 +46,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.bubbleSort">
+  <component name="RunManager" selected="应用程序.InsertionSort">
+    <configuration name="InsertionSort" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.InsertionSort" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsy.algorithm.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QuickSort" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.QuickSort" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsy.algorithm.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.SelectionSort" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -88,6 +114,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.InsertionSort" />
+        <item itemvalue="应用程序.SelectionSort" />
         <item itemvalue="应用程序.bubbleSort" />
         <item itemvalue="应用程序.QuickSort" />
         <item itemvalue="应用程序.SingleLinkedList" />
@@ -123,7 +151,7 @@
       <workItem from="1569509685945" duration="16000" />
       <workItem from="1569594111209" duration="677000" />
       <workItem from="1569906920780" duration="1451000" />
-      <workItem from="1569916360090" duration="1380000" />
+      <workItem from="1569916360090" duration="4621000" />
     </task>
     <servers />
   </component>
