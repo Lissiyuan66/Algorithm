@@ -9,7 +9,6 @@ package com.lsy.algorithm.study;
 class ListNode {
     int val;
     ListNode next = null;
-
     ListNode(int val) {
         this.val = val;
     }
@@ -48,7 +47,7 @@ public class ManyToOneList {
         if (list2==null){
             return list1;
         }
-        ListNode newNode = null;
+        ListNode newNode;
         //递归
         //如果list1的值小于list2，合并后链表当前节点值为list1，并且list1指向其next
         if (list1.val<list2.val){
