@@ -1,5 +1,7 @@
 package com.lsy.algorithm.study;
 
+import java.util.Stack;
+
 /**
  * 链表中倒数第K个节点
  * 题目描述
@@ -28,5 +30,30 @@ public class ListReciprocalK {
             low = low.next;
         }
         return low;
+    }
+
+    public ListNode Test (ListNode head) {
+        ListNode node = head;
+        Stack stack = new Stack();
+        int a = 0;
+
+        while (node != null) {
+            node = node.next;
+            a++;
+        }
+        node = head;
+        while (true) {
+            for (int i = a; i >= 0; i--) {
+                node = node.next;
+                if (i == 0) {
+                    stack.push(node.val);
+                }
+            }
+            a--;
+            if (a == 0) {
+                break;
+            }
+        }
+        return null;
     }
 }

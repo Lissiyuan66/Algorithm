@@ -1,11 +1,13 @@
 package com.lsy.algorithm.study;
 
+/**
+ * 插入排序
+ */
 public class InsertionSort {
     public static int [] sort(int [] a){
-        int current;
         for (int i=0;i<a.length-1;i++){
             //第一个数默认已经排序，从第二个数开始
-            current = a[i+1];
+            int current = a[i+1];
             //前一个数的下标
             int index = i;
             //拿当前数和已经排序的数比较，如果比较数据比当前大，就向后挪一步

@@ -1,7 +1,13 @@
 package com.lsy.algorithm.study;
 
+/**
+ * 选择排序
+ */
 public class SelectionSort {
     public static int[] sort (int [] a){
+        if (a.length==0){
+            return a;
+        }
         for (int i=0;i<a.length;i++){
             //用来储存最小数的索引
             int index = i;

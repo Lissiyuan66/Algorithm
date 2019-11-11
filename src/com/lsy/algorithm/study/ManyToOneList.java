@@ -36,6 +36,7 @@ public class ManyToOneList {
         if (list2==null){
             temp.next = list1;
         }
+        newListNode = newListNode.next;
         return newListNode;
     }
     //递归方法解决

@@ -1,0 +1,10 @@
+
+wsquid:S3012W"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(©Ê¶å8Ê¥·Ù-
+Esquid:S2189+""Correct this loop's end condition.(èÉÚüÿÿÿÿ8Ê¥·Ù-
+Isquid:S1168"+Return an empty collection instead of null.(¥¹ï8Ê¥·Ù-
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Œ¹Ùßÿÿÿÿÿ
+wsquid:S3012L"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(©Ê¶å8Ê¥·Ù-
+squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ş‘í©8Ê¥·Ù-
+wsquid:S30126"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(©Ê¶å8Ê¥·Ù-
+\squid:S2251+"9"i" is incremented and will never reach "stop condition".(èÉÚüÿÿÿÿ8Ê¥·Ù-
+wsquid:S3012A"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(©Ê¶å8Ê¥·Ù-

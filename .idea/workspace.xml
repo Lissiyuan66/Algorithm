@@ -47,8 +47,8 @@
     </option>
   </component>
   <component name="RunManager" selected="应用程序.InsertionSort">
-    <configuration name="InsertionSort" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.InsertionSort" />
+    <configuration name="字符串排列" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.字符串排列" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.QuickSort" />
+    <configuration name="InsertionSort" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.InsertionSort" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleLinkedList" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.SingleLinkedList" />
+    <configuration name="Test" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.Test" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +99,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bubbleSort" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.bubbleSort" />
+    <configuration name="快速排序" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.快速排序" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsy.algorithm.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="归并排序" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.归并排序" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +127,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.字符串排列" />
+        <item itemvalue="应用程序.Test" />
         <item itemvalue="应用程序.InsertionSort" />
         <item itemvalue="应用程序.SelectionSort" />
-        <item itemvalue="应用程序.bubbleSort" />
-        <item itemvalue="应用程序.QuickSort" />
-        <item itemvalue="应用程序.SingleLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +163,18 @@
       <workItem from="1569509685945" duration="16000" />
       <workItem from="1569594111209" duration="677000" />
       <workItem from="1569906920780" duration="1451000" />
-      <workItem from="1569916360090" duration="4621000" />
+      <workItem from="1569916360090" duration="10196000" />
+      <workItem from="1569995824748" duration="3254000" />
+      <workItem from="1570030663364" duration="65000" />
+      <workItem from="1570101996130" duration="17519000" />
+      <workItem from="1570163528826" duration="95000" />
+      <workItem from="1570165009790" duration="676000" />
+      <workItem from="1570202984005" duration="51000" />
+      <workItem from="1570425018031" duration="1997000" />
+      <workItem from="1570440787563" duration="26000" />
+      <workItem from="1571815033648" duration="6580000" />
+      <workItem from="1571843022477" duration="63000" />
+      <workItem from="1573436789765" duration="3972000" />
     </task>
     <servers />
   </component>
