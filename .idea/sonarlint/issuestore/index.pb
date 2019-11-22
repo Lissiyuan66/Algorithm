@@ -27,3 +27,9 @@ U
 -src/com/lsy/algorithm/study/归并排序.java,d\8\d880e1c3a8b3c581b411c198ff64e6d492a0712d
 ]
 -src/com/lsy/algorithm/study/快速排序.java,8\a\8ab02a2b237a5399728bd3ff90bd96c8ce943ed4
+V
+&src/com/lsy/algorithm/study/Test2.java,6\6\66a4fc682eba885390ce25584e36de4b5c64c4b3
+`
+0src/com/lsy/algorithm/exercise/选择排序.java,8\0\803c69f63a6ac236e6d14b7d78e0fbfb29048071
+\
+,src/com/lsy/algorithm/exercise/Solution.java,7\d\7de482261fe5217214f65462520c24ad030bb539
