@@ -11,7 +11,7 @@ public class InsertionSort {
             //前一个数的下标
             int index = i;
             //拿当前数和已经排序的数比较，如果比较数据比当前大，就向后挪一步
-            while (index>=0&&current<a[index]){
+            while (index>=0&&current<=a[index]){
                 a[index+1] = a[index];
                 index--;
             }
