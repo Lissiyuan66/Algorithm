@@ -74,6 +74,7 @@ public class 排序复习 {
                 index--;
             }
             a[index+1] = current;
+            //
         }
     }
 
