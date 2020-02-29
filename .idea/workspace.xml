@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cbdf1b3-6040-4e22-926c-93a6b585bceb" name="默认的" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="9cbdf1b3-6040-4e22-926c-93a6b585bceb" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/173b502cc2f847fae5a14c66bde92c545647d86a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6cb060922c8a34b08060e650df1a4fee3f339c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c5bfbc639bcc2b7efd486019fa67a3713800ae6b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lsy/algorithm/study/统计字符串中单词的出现次数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7de482261fe5217214f65462520c24ad030bb539" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7de482261fe5217214f65462520c24ad030bb539" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/803c69f63a6ac236e6d14b7d78e0fbfb29048071" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/803c69f63a6ac236e6d14b7d78e0fbfb29048071" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e329b09bcc48743699c3b0e1943dedad53d2f6f1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e329b09bcc48743699c3b0e1943dedad53d2f6f1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3b16595c3339c1771466822d8d4026224e06b1c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3b16595c3339c1771466822d8d4026224e06b1c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f57ddd82c38a33b4abfad4072f85a6db4a9e9fcf" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f57ddd82c38a33b4abfad4072f85a6db4a9e9fcf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/META-INF/Algorithm.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/META-INF/Algorithm.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lsy/algorithm/study/复杂链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lsy/algorithm/study/RandomListNode.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,16 +30,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RHbLeJlJHeH6JbU7yMPdHIfBpj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog2.0" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="模块" />
@@ -34,21 +57,48 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="应用程序.排序复习">
-    <configuration name="字符串排列" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.字符串排列" />
+  <component name="RunManager" selected="Application.统计字符串中单词的出现次数">
+    <configuration name="无序数组差值最大" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.无序数组差值最大" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsy.algorithm.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="统计字符串中单词的出现次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.统计字符串中单词的出现次数" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsy.algorithm.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsy.algorithm.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.Test2" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -73,38 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.InsertionSort" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lsy.algorithm.study.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.exercise.Solution" />
+    <configuration name="排序复习" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.exercise.排序复习" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lsy.algorithm.exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.Test2" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lsy.algorithm.study.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,24 +162,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="数组中x加y等于k" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsy.algorithm.study.数组中x加y等于k" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsy.algorithm.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.排序复习" />
-        <item itemvalue="应用程序.InsertionSort" />
-        <item itemvalue="应用程序.Solution" />
-        <item itemvalue="应用程序.Test2" />
-        <item itemvalue="应用程序.字符串排列" />
+        <item itemvalue="Application.统计字符串中单词的出现次数" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.无序数组差值最大" />
+        <item itemvalue="Application.数组中x加y等于k" />
       </list>
     </recent_temporary>
   </component>
   <component name="ServiceViewManager">
-    <option name="allServicesViewState">
-      <serviceView>
-        <treeState>
-          <expand />
-          <select />
-        </treeState>
-      </serviceView>
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
     </option>
   </component>
   <component name="SvnConfiguration">
@@ -201,11 +239,48 @@
       <workItem from="1574399988129" duration="5347000" />
       <workItem from="1574410906371" duration="633000" />
       <workItem from="1574572580588" duration="44000" />
-      <workItem from="1574572664459" duration="1840000" />
+      <workItem from="1574572664459" duration="4783000" />
+      <workItem from="1574591503749" duration="2183000" />
+      <workItem from="1574675759267" duration="312000" />
+      <workItem from="1575100802947" duration="107000" />
+      <workItem from="1575101201187" duration="42000" />
+      <workItem from="1575908106701" duration="33000" />
+      <workItem from="1581339026669" duration="1611000" />
+      <workItem from="1582888648045" duration="9296000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="138" key="FileChooserDialogImpl" timestamp="1582949667374">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="138" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1582949667374" />
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom" timestamp="1582948812835">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582948812835" />
+    <state width="1326" height="227" key="GridCell.Tab.0.center" timestamp="1582948812835">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582948812835" />
+    <state width="1326" height="227" key="GridCell.Tab.0.left" timestamp="1582948812834">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582948812834" />
+    <state width="1326" height="227" key="GridCell.Tab.0.right" timestamp="1582948812835">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582948812835" />
+    <state x="294" y="146" key="NewModule_or_Project.wizard" timestamp="1575908138251">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="294" y="146" key="NewModule_or_Project.wizard/0.0.1368.872@0.0.1368.872" timestamp="1575908138251" />
+    <state x="501" y="149" key="RollbackChangesDialog" timestamp="1582891547951">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="501" y="149" key="RollbackChangesDialog/0.0.1368.872@0.0.1368.872" timestamp="1582891547951" />
   </component>
 </project>

@@ -33,3 +33,9 @@ V
 0src/com/lsy/algorithm/exercise/选择排序.java,8\0\803c69f63a6ac236e6d14b7d78e0fbfb29048071
 \
 ,src/com/lsy/algorithm/exercise/Solution.java,7\d\7de482261fe5217214f65462520c24ad030bb539
+`
+0src/com/lsy/algorithm/exercise/排序复习.java,1\7\173b502cc2f847fae5a14c66bde92c545647d86a
+]
+-src/com/lsy/algorithm/study/二分查找.java,c\5\c5bfbc639bcc2b7efd486019fa67a3713800ae6b
+Z
+*src/com/lsy/algorithm/study/Singleton.java,b\6\b6cb060922c8a34b08060e650df1a4fee3f339c3
