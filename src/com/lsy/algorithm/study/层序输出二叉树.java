@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Tree {
+public class 层序输出二叉树 {
     private static Node root;
 
     /**
